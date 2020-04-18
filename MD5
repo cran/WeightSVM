@@ -1,7 +1,7 @@
-5ee3f4881ffce0594a2f8ac86cb22b7a *DESCRIPTION
-7209583560ae318c16ddebe88871ca6f *NAMESPACE
+5fa404c2fd471e3ab2296befd95dc4ce *DESCRIPTION
+1f74803c30cb368c22f6c7f8bac550b1 *NAMESPACE
 8aa1e5f56f459ce5de4b19636edbbc6a *R/tune_wsvm.R
-a32bbabf5dff571478389b946fe0fc21 *R/wsvm.R
+d0200727cb5bfdb14e13ee4c2a307dee *R/wsvm.R
 fb6b792a9e8e2594594fa576710065cf *cleanup
 01d04a23dccc58d5ac29e6f77a01ea11 *configure
 4563bd3d99118cc5843e6fada62bd8cd *configure.ac
@@ -10,8 +10,7 @@ bc219123f11d59c131f4039a720f54b0 *man/plot.wsvm.Rd
 fc0d78dc14772f283e5ed72cebca9b68 *man/predict.wsvm.Rd
 e9b55233d51543370e9a5ac43e505660 *man/tune.control.Rd
 fcc6a17e74fa5ad5b5610c5b912bca5a *man/tune_wsvm.Rd
-5691a6dce2912866fc1124ac4c3263d8 *man/write.wsvm.Rd
-65ecd2b942b01b3b991384a6b6126e3d *man/wsvm.Rd
+104b3827b438e70010a30eda7f187456 *man/wsvm.Rd
 c2d90df828c9fd2f98bdddd3ea67f57a *src/Rsvm.c
 a2807ef493f00e622e28133b23251659 *src/init.c
 9de5bc8b4e019cc43fd0ea09653780f8 *src/svm.cpp

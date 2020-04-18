@@ -1,7 +1,7 @@
 Package: WeightSVM
-Version: 1.7-3
+Version: 1.7-4
 Title: Subject Weighted Support Vector Machines
-Imports: graphics, grDevices, class, stats, methods, utils
+Imports: graphics, grDevices, stats, methods, utils
 Suggests: SparseM, xtable, Matrix, MASS, e1071
 Author: Tianchen Xu [aut, cre] (<https://orcid.org/0000-0002-0102-7630>),
   Chih-Chung Chang [ctb, cph] (libsvm C++-code),
@@ -26,5 +26,5 @@ License: GPL-2 | GPL-3
 LazyLoad: yes
 NeedsCompilation: yes
 Repository: CRAN
-Packaged: 2020-04-03 21:12:12 UTC; Peter Xu
-Date/Publication: 2020-04-05 16:00:03 UTC
+Packaged: 2020-04-15 07:36:42 UTC; Peter Xu
+Date/Publication: 2020-04-18 07:40:15 UTC
