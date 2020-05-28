@@ -1,10 +1,14 @@
-5fa404c2fd471e3ab2296befd95dc4ce *DESCRIPTION
+75962ae775c31bff482181b987444a5c *DESCRIPTION
 1f74803c30cb368c22f6c7f8bac550b1 *NAMESPACE
 8aa1e5f56f459ce5de4b19636edbbc6a *R/tune_wsvm.R
 d0200727cb5bfdb14e13ee4c2a307dee *R/wsvm.R
+8ea0f1adc5ae121279a0b818fb8538f9 *build/vignette.rds
 fb6b792a9e8e2594594fa576710065cf *cleanup
 01d04a23dccc58d5ac29e6f77a01ea11 *configure
 4563bd3d99118cc5843e6fada62bd8cd *configure.ac
+a3aa99c009b939158420222773e50007 *inst/NEWS.Rd
+bcf8132256d8bc07cc9ef1d54f909ea0 *inst/doc/wsvmdoc.Rnw
+fcd9180937f6b7d3536b9859fa17efdc *inst/doc/wsvmdoc.pdf
 354f61dc27a097de1cf8071231a780c8 *man/plot.tune_wsvm.Rd
 bc219123f11d59c131f4039a720f54b0 *man/plot.wsvm.Rd
 fc0d78dc14772f283e5ed72cebca9b68 *man/predict.wsvm.Rd
@@ -17,3 +21,5 @@ a2807ef493f00e622e28133b23251659 *src/init.c
 6cf3ce1fef4a88e7fea26b63e4bf5606 *src/svm.h
 7709b8ef753774b7d154cf44be7e778b *tests/backup.txt
 ddf5c4f21a4cb29b47ff8111a8438695 *tests/svm_test.R
+b327fc2ef1409fc69ae4c2c4fb20d090 *tests/tune.wsvm.Rd
+bcf8132256d8bc07cc9ef1d54f909ea0 *vignettes/wsvmdoc.Rnw
